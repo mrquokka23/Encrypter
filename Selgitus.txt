@@ -1,0 +1,13 @@
+Projekti autor: Armin Mere
+
+Salanõunikul oli vaja saata ülisalajsat informatsiooni teisele osapoolele ilma, et keegi seda vahepeal kergesti lugeda ei saaks. 
+Seetõttu pöördus ta minu poole palvega kirjutada programm, mis jagab faili kaheks niimoodi, et ühte faili omades poleks seda kergesti võimalik lugeda.
+Programm krüpteerib tekstifaili lausehaaval suvaliselt ära ning loob ka võtmefaili. Programmiga on võimalik nii faile krüpteerida kui ka dekrüpteerida. 
+
+Programm küsib kasutajalt:
+---kas kasutaja soovib faili krüpteerida või dekrüpteerida
+---krüpteeritava faili või dekrüpteeritava faili ja võtmefaili nime
+---krüpteeritud faili, dekrüpteeritud faili ja võtmefaili nimed kuvatakse ekraanil
+
+Kasutatavad failid peavad olema programmiga samas kaustas!
+Programm töötab ainult tekstifailidega(.txt)!
